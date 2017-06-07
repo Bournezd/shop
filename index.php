@@ -4,8 +4,6 @@ $res=getAllPro();
 var_dump($res);
 
 ?>
-
-
 <!doctype html>
 <html>
 <head>
